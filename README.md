@@ -17,6 +17,7 @@ All experiments have been performed on Intel Core i5-7300HQ,2.5GHz Processor(GPU
 8 GB RAM running Windows-10 as operational system.
 
 Dataset: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
+
 References:
 1. https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751
 2. https://towardsdatascience.com/deep-learning-using-transfer-learning-python-code-for-resnet50-8acdfb3a2d38?
