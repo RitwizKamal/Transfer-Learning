@@ -5,13 +5,16 @@ Models used:
 1. VGG19
 2. VGG16
 3. ResNet50
-4. InceptionV3
-5. MobileNet
-6. DenseNet
+4. MobileNet
+5. DenseNet
 
 Methods used:
 1. Freezing whole convolutional base
 2. Training some layers of convolutional base + Image augmentation
+
+Resources Used:
+All experiments have been performed on Intel Core i5-7300HQ,2.5GHz Processor(GPU support),
+8 GB RAM running Windows-10 as operational system.
 
 Dataset: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 References:
