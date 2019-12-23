@@ -1,6 +1,6 @@
 # Transfer-Learning
 
-Different Transfer Learning Models tarined on a blood smear image dataset for detection of Malaria.
+Different Transfer Learning Models trained on a blood smear image dataset for detection of Malaria.
 Models used:
 1. VGG19
 2. VGG16
